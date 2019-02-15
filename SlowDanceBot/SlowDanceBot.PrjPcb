@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBDIUEAB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SlowDanceBot\Design Rule Check - SlowDanceBot.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
