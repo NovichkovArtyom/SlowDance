@@ -1,69 +1,0 @@
-Dependencies for Project 'SlowDance', Target 'Target 1': (DO NOT MODIFY !)
-F (.\src\target.cpp)(0x5D823CDA)(--cpp -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\keil -I .\src -I .\Listings -I .\Objects -I .\RTE\Device\STM32F072CBTx -I .\RTE\_Target_1-I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F072xB-o .\objects\target.o --omf_browse .\objects\target.crf --depend .\objects\target.d)
-I (src\target.hpp)(0x5D6FA151)
-I (src\mcu.hpp)(0x5D6F9EB3)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
-I (src\adc.hpp)(0x5D6F9DC9)
-I (src\pwm.hpp)(0x5D823CA7)
-F (.\src\pwm.cpp)(0x5D823BE7)(--cpp -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\keil -I .\src -I .\Listings -I .\Objects -I .\RTE\Device\STM32F072CBTx -I .\RTE\_Target_1-I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F072xB-o .\objects\pwm.o --omf_browse .\objects\pwm.crf --depend .\objects\pwm.d)
-I (src\pwm.hpp)(0x5D823CA7)
-I (src\mcu.hpp)(0x5D6F9EB3)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
-F (.\src\mcu.cpp)(0x5D64FFF3)(--cpp -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\keil -I .\src -I .\Listings -I .\Objects -I .\RTE\Device\STM32F072CBTx -I .\RTE\_Target_1-I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F072xB-o .\objects\mcu.o --omf_browse .\objects\mcu.crf --depend .\objects\mcu.d)
-I (src\mcu.hpp)(0x5D6F9EB3)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
-F (.\src\main.cpp)(0x5D823C31)(--cpp -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\keil -I .\src -I .\Listings -I .\Objects -I .\RTE\Device\STM32F072CBTx -I .\RTE\_Target_1-I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F072xB-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (src\target.hpp)(0x5D6FA151)
-I (src\mcu.hpp)(0x5D6F9EB3)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
-I (src\pwm.hpp)(0x5D823CA7)
-F (.\src\adc.cpp)(0x5D6F9DEC)(--cpp -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\keil -I .\src -I .\Listings -I .\Objects -I .\RTE\Device\STM32F072CBTx -I .\RTE\_Target_1-I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F072xB-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
-I (src\adc.hpp)(0x5D6F9DC9)
-I (src\mcu.hpp)(0x5D6F9EB3)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
-F (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Lib\ARM\arm_cortexM0l_math.lib)(0x5D25D706)()
-F (RTE\Device\STM32F072CBTx\startup_stm32f072xb.s)(0x5978B3FE)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F072xB SETA 1"--list .\listings\startup_stm32f072xb.lst --xref -o .\objects\startup_stm32f072xb.o --depend .\objects\startup_stm32f072xb.d)
-F (RTE\Device\STM32F072CBTx\system_stm32f0xx.c)(0x5978B3FE)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\keil -I .\src -I .\Listings -I .\Objects -I .\RTE\Device\STM32F072CBTx -I .\RTE\_Target_1-I.\RTE\_Target_1-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include"-I"C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F072xB-o .\objects\system_stm32f0xx.o --omf_browse .\objects\system_stm32f0xx.crf --depend .\objects\system_stm32f0xx.d)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5978B3FE)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
-I (C:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
