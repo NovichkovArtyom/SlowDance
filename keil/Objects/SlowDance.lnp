@@ -1,0 +1,13 @@
+--cpu Cortex-M0
+".\objects\target.o"
+".\objects\pwm.o"
+".\objects\mcu.o"
+".\objects\main.o"
+".\objects\adc.o"
+"C:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Lib\ARM\arm_cortexM0l_math.lib"
+".\objects\startup_stm32f072xb.o"
+".\objects\system_stm32f0xx.o"
+--strict --scatter ".\Objects\SlowDance.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\SlowDance.map" -o .\Objects\SlowDance.axf
